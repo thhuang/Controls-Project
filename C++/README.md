@@ -11,10 +11,10 @@ For easy navigation throughout this document, here is an outline:
 
 ## TODO ##
 - [X] scenario 1
-- [ ] scenario 2
-- [ ] scenario 3
-- [ ] scenario 4
-- [ ] scenario 5
+- [X] scenario 2
+- [X] scenario 3
+- [X] scenario 4
+- [X] scenario 5
 
 ## Development Environment Setup ##
 
